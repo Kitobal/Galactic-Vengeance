@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb32ecc756f425541a58eee6726be95d, type: 3}
+  m_Name: Meteor Right
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 4609315949771189978, guid: e4fb5c9c7e4e4e2448cb6fa8aa41d481, type: 3}
+  pathPrefab: {fileID: 3994113649423906271, guid: f3032050b5171584ba26757b10db4fb0, type: 3}
+  timeBetweenSpawn: 1
+  spawnRandomFactor: 0
+  numberOfEnemies: 1
+  moveSpeed: 8
